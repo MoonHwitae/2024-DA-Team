@@ -17,6 +17,7 @@
 - 통계청 고령자 통계 2024 (about:blank)
 - 보건복지부 노인복지시설 현황 (https://www.mohw.go.kr/)
 # 노인 인구 대비 시설 이용 노인 비율 파이 차트 생성
+
 import matplotlib.pyplot as plt
 # 데이터 정의
 labels = ['고령 인구', '시설 이용 노인']
